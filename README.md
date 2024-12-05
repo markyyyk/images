@@ -1,2 +1,2 @@
 # images
-xd
+Galería de Imágenes IA
